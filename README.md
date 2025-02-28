@@ -4,16 +4,15 @@
 ![ML](https://img.shields.io/badge/Machine_Learning-Python-blue) ![Status](https://img.shields.io/badge/Status-Active-green)
 
 ## 📌 Description
-This repository provides implementations of **classic machine learning algorithms** in **Python**, structured into five parts. It is designed as a comprehensive resource for data preprocessing, regression, classification, clustering, and association rule learning using **Google Colab**.
+This repository provides implementations of **classic machine learning algorithms** in **Python**, structured into five parts. It serves as a comprehensive resource for learning data preprocessing, regression, classification, clustering, and association rule learning.
 
 ### Why this project?
 - 📌 **Hands-on Learning**: Practical implementation of ML algorithms in Python.
 - 📌 **Well-Structured Approach**: Organized into key ML categories for easy navigation.
 - 📌 **Beginner & Advanced Friendly**: Covers fundamental and advanced ML techniques.
-- 📌 **Google Colab Ready**: Easily accessible and runnable in the cloud.
-- 📌 **Inspired by SuperDataScience**: Adapted from the **Machine Learning A-Z™** course.
+- 📌 **Educational Purpose**: Inspired by the SuperDataScience ML A-Z course.
 
-## 💂️ Project Structure  
+## 📂 Project Structure  
 ```bash
 ML-Classics-in-Python/
 ├── Part 1 - Data Preprocessing/     # Data preprocessing
@@ -62,24 +61,26 @@ ML-Classics-in-Python/
 Ensure you have the required libraries installed before running the scripts:  
 
 ```python
-!pip install numpy pandas matplotlib seaborn scikit-learn scipy mlxtend
+!pip install numpy pandas matplotlib seaborn scikit-learn mlxtend
 ```
 
-### ▶ Running the Notebooks  
-1. Open **Google Colab**  
-2. Clone the repository:  
+### ▶ Running the Scripts  
+1. Clone the repository:  
    ```bash
-   !git clone https://github.com/username/ML-Classics-in-Python.git
+   git clone https://github.com/username/ML-Classics-in-Python.git
+   cd ML-Classics-in-Python
    ```
-3. Load a notebook:  
-   ```bash
+
+2. Run the scripts in Google Colab:  
+   ```python
    from google.colab import drive
    drive.mount('/content/drive')
    ```
 
-4. Open a specific notebook, for example:
+3. Open the required notebook:  
    ```python
-   %run "Part 2 - Regression/multiple_linear_regression.ipynb"
+   %cd '/content/drive/My Drive/Colab Notebooks/Part 2 - Regression'
+   !jupyter notebook simple_linear_regression.ipynb
    ```
 
 ## 📌 Authors & Acknowledgments  
@@ -91,5 +92,5 @@ Ensure you have the required libraries installed before running the scripts:
 
 ---
 
-## 🐜 License  
-This project is distributed under the **MIT License**. Feel free to use the code! 🚀  
+## 📜 License  
+This project is distributed under the **MIT License**. Feel free to use the code! 🚀
