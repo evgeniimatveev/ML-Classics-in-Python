@@ -1,7 +1,32 @@
 # 📊 ML Classics in Python (Google Colab)
 **Collection of classic machine learning algorithms implemented in Python using Google Colab**
 
-![ML](https://img.shields.io/badge/Machine_Learning-Python-blue) ![Status](https://img.shields.io/badge/Status-Active-green)
+<p align="center">
+
+  <!-- Core stack -->
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Environment-Google_Colab-F9AB00?logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-Classics_in_Python-blue" />
+
+  <br/>
+
+  <!-- ML areas -->
+  <img src="https://img.shields.io/badge/Preprocessing-Missing_Values_&_Scaling-9C27B0" />
+  <img src="https://img.shields.io/badge/Regression-Linear_•_SVR_•_Trees-4CAF50" />
+  <img src="https://img.shields.io/badge/Classification-Logistic_•_KNN_•_SVM-03A9F4" />
+  <img src="https://img.shields.io/badge/Clustering-K--Means_•_Hierarchical-FF9800" />
+  <img src="https://img.shields.io/badge/Association_Rules-Apriori_•_Eclat-795548" />
+
+  <br/>
+
+  <!-- Meta -->
+  <img src="https://img.shields.io/badge/Level-Beginner_to_Advanced-yellow" />
+  <img src="https://img.shields.io/badge/Status-Active-success" />
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey" />
+
+</p>
+
+---
 
 ## 📌 Description
 This repository provides implementations of **classic machine learning algorithms** in **Python**, structured into five parts. It is designed as a comprehensive resource for data preprocessing, regression, classification, clustering, and association rule learning using **Google Colab**.
