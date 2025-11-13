@@ -1,6 +1,3 @@
-# 📊 ML Classics in Python (Google Colab)
-**Collection of classic machine learning algorithms implemented in Python using Google Colab**
-
 <p align="center">
 
   <!-- Core stack -->
@@ -27,6 +24,10 @@
 </p>
 
 ---
+
+# 📊 ML Classics in Python (Google Colab)
+**Collection of classic machine learning algorithms implemented in Python using Google Colab**
+
 
 ## 📌 Description
 This repository provides implementations of **classic machine learning algorithms** in **Python**, structured into five parts. It is designed as a comprehensive resource for data preprocessing, regression, classification, clustering, and association rule learning using **Google Colab**.
