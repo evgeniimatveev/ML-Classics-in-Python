@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="470" viewBox="0 0 980 470" role="img" aria-label="Who buys: age and salary together">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f0c29"/><stop offset="0.6" stop-color="#2a2468"/><stop offset="1" stop-color="#4a3394"/></linearGradient></defs>
+<rect width="980" height="470" rx="16" fill="url(#bg)"/>
+<text x="32" y="48" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">Who buys: age and salary together</text>
+<text x="32" y="78" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#b6aee0">social-network-ads.csv: 400 users, share who purchased in each age x salary group</text>
+<text x="235.0" y="113" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#efeaff">under $40k</text>
+<text x="405.0" y="113" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#efeaff">$40-70k</text>
+<text x="575.0" y="113" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#efeaff">$70-100k</text>
+<text x="745.0" y="113" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#efeaff">$100k+</text>
+<text x="136" y="162.0" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#efeaff">age 18-29</text>
+<rect x="153" y="128" width="164" height="58" rx="8" fill="#2a2468"/>
+<text x="235.0" y="159.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">0%</text>
+<text x="235.0" y="177.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b6aee0">n = 30</text>
+<rect x="323" y="128" width="164" height="58" rx="8" fill="#2a2468"/>
+<text x="405.0" y="159.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">0%</text>
+<text x="405.0" y="177.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b6aee0">n = 27</text>
+<rect x="493" y="128" width="164" height="58" rx="8" fill="#29296c"/>
+<text x="575.0" y="159.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">3%</text>
+<text x="575.0" y="177.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b6aee0">n = 39</text>
+<rect x="663" y="128" width="164" height="58" rx="8" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.15" stroke-dasharray="4 4"/>
+<text x="745.0" y="162.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#b6aee0">n = 4 (too few)</text>
+<text x="136" y="226.0" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#efeaff">age 30-39</text>
+<rect x="153" y="192" width="164" height="58" rx="8" fill="#2a2468"/>
+<text x="235.0" y="223.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">0%</text>
+<text x="235.0" y="241.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b6aee0">n = 19</text>
+<rect x="323" y="192" width="164" height="58" rx="8" fill="#2a2468"/>
+<text x="405.0" y="223.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">0%</text>
+<text x="405.0" y="241.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b6aee0">n = 46</text>
+<rect x="493" y="192" width="164" height="58" rx="8" fill="#254e8b"/>
+<text x="575.0" y="223.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">20%</text>
+<text x="575.0" y="241.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b6aee0">n = 44</text>
+<rect x="663" y="192" width="164" height="58" rx="8" fill="#77cf84"/>
+<text x="745.0" y="223.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#16123a">79%</text>
+<text x="745.0" y="241.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#2b2560">n = 29</text>
+<text x="136" y="290.0" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#efeaff">age 40-49</text>
+<rect x="153" y="256" width="164" height="58" rx="8" fill="#90e274"/>
+<text x="235.0" y="287.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#16123a">88%</text>
+<text x="235.0" y="305.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#2b2560">n = 24</text>
+<rect x="323" y="256" width="164" height="58" rx="8" fill="#254c89"/>
+<text x="405.0" y="287.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">19%</text>
+<text x="405.0" y="305.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b6aee0">n = 31</text>
+<rect x="493" y="256" width="164" height="58" rx="8" fill="#2075ab"/>
+<text x="575.0" y="287.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">39%</text>
+<text x="575.0" y="305.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b6aee0">n = 33</text>
+<rect x="663" y="256" width="164" height="58" rx="8" fill="#99e96e"/>
+<text x="745.0" y="287.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#16123a">90%</text>
+<text x="745.0" y="305.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#2b2560">n = 21</text>
+<text x="136" y="354.0" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#efeaff">age 50-60</text>
+<rect x="153" y="320" width="164" height="58" rx="8" fill="#b6ff5c"/>
+<text x="235.0" y="351.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#16123a">100%</text>
+<text x="235.0" y="369.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#2b2560">n = 14</text>
+<rect x="323" y="320" width="164" height="58" rx="8" fill="#6ac58d"/>
+<text x="405.0" y="351.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#16123a">75%</text>
+<text x="405.0" y="369.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#2b2560">n = 8</text>
+<rect x="493" y="320" width="164" height="58" rx="8" fill="#9aea6d"/>
+<text x="575.0" y="351.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#16123a">91%</text>
+<text x="575.0" y="369.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#2b2560">n = 11</text>
+<rect x="663" y="320" width="164" height="58" rx="8" fill="#97e86f"/>
+<text x="745.0" y="351.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#16123a">90%</text>
+<text x="745.0" y="369.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#2b2560">n = 20</text>
+<text x="32" y="448" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b6aee0">Dashed cells have fewer than 8 users. Computed from data/social-network-ads.csv</text>
+</svg>
