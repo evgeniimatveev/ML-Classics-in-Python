@@ -1,0 +1,12 @@
+# Everything the notebooks import (standard-library modules excluded)
+jupyterlab
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+mlxtend      # Apriori / association rules
+hdbscan      # density-based clustering example
+ipywidgets   # interactive widgets in one notebook
+jinja2       # DataFrame.style in the decision-tree regression notebook
