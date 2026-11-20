@@ -6,6 +6,12 @@ This script prints a short description, shows the main parts of the project,
 and lists the recommended Python packages.
 """
 
+import sys
+
+# Emoji in the output: make sure Windows consoles (cp1252) can print them.
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+
 from textwrap import indent
 
 # 1. Short message about the project ----------------------------------------

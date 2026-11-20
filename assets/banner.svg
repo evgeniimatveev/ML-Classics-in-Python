@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="ML Classics in Python banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f0c29"/>
+      <stop offset="0.55" stop-color="#2a2468"/>
+      <stop offset="1" stop-color="#5b3aa8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" rx="18" fill="url(#bg)"/>
+  <!-- decorative constellation: three clusters joined by a dendrogram -->
+  <g transform="translate(900 36)">
+    <path d="M60 232 V190 H190 V232 M190 190 V150 H300 M300 150 V232 M125 190 V120 H300 V150" fill="none" stroke="#ffffff" stroke-opacity="0.45" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M125 120 V70 H215 V120" fill="none" stroke="#ffffff" stroke-opacity="0.45" stroke-width="3" stroke-linejoin="round"/>
+    <g fill="#4de3ff"><circle cx="40" cy="48" r="8"/><circle cx="68" cy="30" r="8"/><circle cx="82" cy="62" r="8"/><circle cx="52" cy="78" r="8"/><circle cx="96" cy="40" r="8"/></g>
+    <g fill="#b6ff5c"><circle cx="190" cy="20" r="8"/><circle cx="222" cy="40" r="8"/><circle cx="204" cy="66" r="8"/><circle cx="170" cy="48" r="8"/></g>
+    <g fill="#ff9f43"><circle cx="300" cy="40" r="8"/><circle cx="334" cy="22" r="8"/><circle cx="348" cy="58" r="8"/><circle cx="318" cy="72" r="8"/><circle cx="282" cy="64" r="8"/></g>
+    <g fill="#4de3ff"><circle cx="60" cy="232" r="7"/></g><g fill="#b6ff5c"><circle cx="190" cy="232" r="7"/></g><g fill="#ff9f43"><circle cx="300" cy="232" r="7"/></g>
+    <line x1="30" y1="248" x2="330" y2="248" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2"/>
+  </g>
+  <!-- title -->
+  <text x="64" y="132" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#4de3ff" letter-spacing="6">MACHINE LEARNING A–Z</text>
+  <text x="62" y="212" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="70" font-weight="800" fill="#ffffff">ML Classics in Python</text>
+  <text x="64" y="262" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#d9d2ff">Preprocessing · Regression · Classification · Clustering · Rules</text>
+</svg>
